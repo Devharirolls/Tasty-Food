@@ -1,2 +1,2 @@
 # Tasty-Food
-This is Food Website with ReactJS and Firebase Backend
+This is Food Website with ReactJS and Firebase Backend (TailwindCSS)
